@@ -1,5 +1,4 @@
-# 👋 Hey, I'm [Your Name]
-
+# Welcome!
 I'm an **AI Full Stack Engineer** building intelligent, real-world applications powered by LLMs, LangChain, and modern full stack technologies. My passion lies in crafting end-to-end tools that connect user experience with cutting-edge AI capabilities.
 
 ### 💡 What I’m Working On
