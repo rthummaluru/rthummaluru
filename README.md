@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I'm [Your Name]
 
-<!--
-**rthummaluru/rthummaluru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI Full Stack Engineer** building intelligent, real-world applications powered by LLMs, LangChain, and modern full stack technologies. My passion lies in crafting end-to-end tools that connect user experience with cutting-edge AI capabilities.
 
-Here are some ideas to get you started:
+### 💡 What I’m Working On
+- 🧠 **Threadweaver** – An AI assistant that connects the dots across your digital workspace (Notion, Slack, GitHub, Google Docs) using LangChain agents + vector memory.
+- 📓 **AI Journal App** – A lightweight journaling app that turns your entries into insights using LLMs and embeddings.
+- 🧰 Exploring self-hosted LLM tools and orchestration frameworks like OpenDevin and CrewAI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Core Stack
+`LangChain` • `OpenAI API` • `FastAPI` • `Pinecone` • `React + Tailwind` • `PostgreSQL` • `Docker` • `Supabase` • `LLM Agents` • `RAG`
+
+### 🔍 What I’m Exploring
+- Memory & tool-use in AI agents
+- Open-source LLM orchestration (CrewAI, LangGraph)
+- Self-hosted vector stores + LLM APIs
+
+### 📬 Get in Touch
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ronit-thummaluru-2505101ab/)) • [Instagram](https://instagram.com/ronithummaluru) 
+> Always building. Always learning.
