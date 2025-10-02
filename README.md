@@ -11,5 +11,5 @@ I'm someone passionate about solving real world problems with the use of AI and 
 - Google AI
 
 ### 📬 Get in Touch
-[LinkedIn]([https://www.linkedin.com/in/ronit-thummaluru-2505101ab/]) • [Instagram](https://instagram.com/ronithummaluru) 
+[LinkedIn](https://www.linkedin.com/in/ronit-thummaluru-2505101ab/) • [Instagram](https://instagram.com/ronithummaluru) 
 > Happy to Connect!
